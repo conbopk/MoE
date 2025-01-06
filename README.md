@@ -1,2 +1,2 @@
 # MoE
- MoE Implement from Scratch
+ MoE Implement from Scratch - Switch Transformer
